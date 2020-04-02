@@ -10,8 +10,8 @@
 ```
 const ethConverter = require('eth-converter')
 
-let curr = feliceUtil.toWei('10', 'ether')
-let curr = feliceUtil.fromWei('10000', 'ether')
+let curr = ethConverter.toWei('10', 'ether')
+let curr = ethConverter.fromWei('10000', 'ether')
 ```
 
 converts to one of the following:
