@@ -16,7 +16,7 @@
     "url": "https://github.com/gorlitzer/wei-converter/issues"
   },
   "homepage": "https://github.com/gorlitzer/wei-converter#readme",
-  "dependencies": {
+ "devDependencies": {
     "bn.js": "^5.1.1",
     "number-to-bn": "^1.7.0"
   }
